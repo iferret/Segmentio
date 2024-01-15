@@ -9,6 +9,7 @@
 import UIKit
 import QuartzCore
 
+
 public typealias SegmentioSelectionCallback = ((_ segmentio: Segmentio, _ selectedSegmentioIndex: Int) -> Void)
 
 open class Segmentio: UIView {
